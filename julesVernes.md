@@ -1,0 +1,50 @@
+Jules Verne
+
+ROBUR LE CONQUÉRANT
+
+I
+
+OÙ LE MONDE SAVANT ET LE MONDE IGNORANT SONT AUSSI EMBARRASSES L'UN OU L'AUTRE.
+
+" PAN !... PAN !... "
+
+Les deux coups de pistolet partirent presque en même temps. Une vache, qui paissait à cinquante pas de là, reçut une des balles dans l'échine. Elle n'était pour rien dans l'affaire, cependant.
+
+Ni l'un ni l'autre des deux adversaires n'avait été touché. 
+
+Quels étaient ces deux gentlemen? On ne sait, et, cependant, c'eût été là, sans doute, l'occasion de faire parvenir leurs noms à la postérité. Tout ce qu'on peut dire, c'est que le plus âgé était Anglais, le plus jeune Américain. Quant à indiquer en quel endroit l'inoffensif ruminant venait de paître sa dernière touffe d'herbe, rien de plus facile. C'était sur la rive droite du Niagara, non loin de ce pont suspendu qui réunit la rive américaine à la rive canadienne, trois milles au-dessous des chutes.
+
+L'Anglais s'avança alors vers l'Américain :
+
+" Je n en soutiens pas moins que c'était le Rule Britannia! dit-il.
+
+-- Non! le Yankee Doodle! " répliqua l'autre.
+
+La querelle allait recommencer, lorsque l'un des témoins -- sans doute dans l'intérêt du bétail -- s'interposa, disant :
+
+" Mettons que c'était le Rule Doodle et le Yankee Britannia, et allons déjeuner! "
+
+Ce compromis entre les deux chants nationaux de l'Amérique et de la Grande-Bretagne fut adopté à la satisfaction générale. Américains et Anglais, remontant la rive gauche du Niagara, vinrent s'attabler dans l'hôtel de Goat-Island -- un terrain neutre entre les deux chutes. Comme ils sont en présence des oeufs bouillis et du jambon traditionnels, du roastbeef froid, relevé de pickles incendiaires, et de flots de thé à rendre jalouses les célèbres cataractes, on ne les dérangera plus. Il est peu probable, d'ailleurs, qu'il soit encore question d'eux dans cette histoire.
+
+Qui avait raison de l'Anglais ou de l'Américain? Il eût été difficile de se prononcer. En tout cas, ce duel montre combien les esprits s'étaient passionnés, non seulement dans le nouveau, mais aussi dans l'ancien continent, à propos d'un phénomène inexplicable, qui, depuis un mois environ, mettait toutes les cervelles à l'envers.
+
+_Os sublime dedit coelumque tueri,_ 
+
+
+a dit Ovide pour le plus grand honneur de la créature humaine. En vérité, jamais on n'avait tant regardé le ciel depuis l'apparition de l'homme sur le globe terrestre.
+
+Or, précisément, pendant la nuit précédente, une trompette aérienne avait lancé ses notes cuivrées à travers l'espace, au-dessus de cette portion du Canada située entre le lac Ontario et le lac Erié. Les uns avaient entendu le Yankee Doodle, les autres le Rule Britannia. De là cette querelle d'Anglo-saxons qui se terminait par un déjeuner à Goat-Island. Peut-être, en somme, n'était-ce ni l'un ni l'autre de ces chants patriotiques. Mais ce qui n'était douteux pour personne c'est que ce son étrange avait ceci de particulier qu'il semblait descendre du ciel sur la terre.
+
+Fallait-il croire à quelque trompette céleste, embouchée par un ange ou un archange?... N'était-ce pas plutôt de joyeux aéronautes qui jouaient de ce sonore instrument, dont la Renommée fait un si bruyant usage?
+
+Non! Il n'y avait là ni ballon, ni aéronautes. Un phénomène extraordinaire se produisait dans les hautes zones du ciel -- phénomène dont on ne pouvait reconnaître la nature ni l'origine. Aujourd'hui, il apparaissait au-dessus de l'Amérique, quarante-huit heures après au-dessus de l'Europe, huit jours plus tard, en Asie, au-dessus du Céleste Empire. Décidément, si la trompette qui signalait son passage n'était pas celle du Jugement dernier, qu'était donc cette trompette?
+
+De là, en tous pays de la terre, royaumes ou républiques, une certaine inquiétude qu'il importait de calmer. Si vous entendiez dans votre maison quelques bruits bizarres et inexplicables ne chercheriez-vous pas au plus vite à reconnaître la cause de ces bruits, et, 51 l'enquête n'aboutissait à rien, n'abandonneriez-vous pas votre maison pour en habiter une autre? Oui, sans doute! Mais ici, la maison, c'était le globe terrestre. Nul moyen de le quitter pour la Lune, Mars, Vénus, Jupiter, ou toute autre planète du système solaire. Il fallait donc découvrir ce qui se passait, non dans le vide infini, mais dans les zones atmosphériques. En effet, pas d'air, pas de bruit, et, comme il y avait bruit -- toujours la fameuse trompette! -- c'est que le phénomène s'accomplissait au milieu de la couche d'air, dont la densité va toujours en diminuant et qui ne s'étend pas à plus de deux lieues autour de notre sphéroïde.
+
+Naturellement, des milliers de feuilles publiques s'emparèrent de la question, la traitèrent sous toutes ses formes, l'éclaircirent ou l'obscurcirent, rapportèrent des faits vrais ou faux, alarmèrent ou rassurèrent leurs lecteurs, dans l'intérêt du tirage, -- passionnèrent enfin les masses quelque peu affolées. Du coup, la politique fut par terre, et les affaires n'en allèrent pas plus mal. Mais qu'y avait-il?
+
+On consulta les observatoires du monde entier. S'ils ne répondaient pas, à quoi bon des observatoires? Si les astronomes, qui dédoublent ou détriplent des étoiles à cent mille milliards de lieues, n'étaient pas capables de reconnaître l'origine d'un phénomène cosmique, dans le rayon de quelques kilomètres seulement, à quoi bon des astronomes?
+
+Aussi, ce qu'il y eut de télescopes, de lunettes, de longues-vues, de lorgnettes, de binocles, de monocles, braqués vers le ciel, pendant ces belles nuits de l'été, ce qu'il y eut d'yeux à l'oculaire des instruments de toutes portées et de toutes grosseurs, on ne saurait l'évaluer. Peut-être des centaines de mille, à tout le moins. Dix fois, vingt fois plus qu'on ne compte d'étoiles à l'oeil nu sur la sphère céleste. Non! Jamais éclipse, observée simultanément sur tous les points du globe, n'avait été à pareille fête.
+
+Les observatoires répondirent, mais insuffisamment. Chacun donna une opinion, mais différente. De là, guerre intestine dans le monde savant pendant les dernières semaines d'avril et les premières de mai. 

@@ -17,14 +17,17 @@
       <label for="town">Ville</label> <input type="text" name="town"><br />
       <label for="email">Email*</label> <input type="text" name="email" required><br />
       <label for="subject">Sujets*</label> 
-          <select name="subject">
+          <select name="subject" required>
                <option value="complaint">plainte</option>
                <option value="price">problème de prix</option>
                <option value="general" selected>question générale</option>
                <option value="other">autre</option>
           </select>
       <br />
-      <label for="">Champs libre*</label> 
+      <label for="insider_text">Champs libre*</label> 
+          <textarea name="insider_text" required>
+            mettez votre texte ici...
+          </textarea>
       <br />
       
       <input type="submit" value="submit">

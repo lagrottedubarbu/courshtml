@@ -8,7 +8,7 @@ OÙ LE MONDE SAVANT ET LE MONDE IGNORANT SONT AUSSI EMBARRASSES L'UN OU L'AUTRE.
 
 " PAN !... PAN !... "
 
-Les deux coups de pistolet partirent presque en même temps. Une vache, qui paissait à cinquante pas de là, reçut une des balles dans l'échine. Elle n'était pour rien dans l'affaire, cependant.
+<p style="font-family: cursive; color:red; font-size:3em;">Les deux coups de pistolet partirent presque en même temps. Une vache, qui paissait à cinquante pas de là, reçut une des balles dans l'échine. Elle n'était pour rien dans l'affaire, cependant.</p>
 
 Ni l'un ni l'autre des deux adversaires n'avait été touché. 
 

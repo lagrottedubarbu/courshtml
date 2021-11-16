@@ -1,16 +1,22 @@
+/*
+fichier css de base
+par Olivier Chambon
+dernière mise à jour 16/11/2021
+*/
+
+/* généraux */
+html {
+  margin:0px;
+  padding:0px;
+}
+
 a {
-  color: red;
+  text-decoration: none;
 }
 
-.navigation
-{
-  color: blue;
-}
-
-#premier {
+/* mutualisation */
+.vert {
   color: green;
 }
 
-.navigation a {
-  color:#FFFF00;
-}
+/* spécifiques */

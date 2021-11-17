@@ -42,6 +42,7 @@ h2 {
 article {
   border-top: 1px solid black;
   margin-bottom:20px;
+  border:1px solid red;
 }
 
 article:first {
@@ -59,4 +60,8 @@ section article img {
 
 footer p {
   font-size:12px;
+}
+
+article img {
+  width:30%;
 }

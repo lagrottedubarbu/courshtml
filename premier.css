@@ -35,12 +35,17 @@ section {
 }
 
 h2 {
-  font family: sans-serif;
+  font-family: sans-serif;
   margin-bottom: 20px;
 }
 
 article {
   border-top: 1px solid black;
+  margin-bottom:20px;
+}
+
+article:first {
+  border-top: 0px;
 }
 
 /* spécifiques */

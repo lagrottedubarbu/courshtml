@@ -23,6 +23,12 @@ header a, footer a, footer p {
   color: white !important;
 }
 
+section {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* mutualisation */
 .vert {
   color: green;

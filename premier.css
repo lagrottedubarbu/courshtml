@@ -20,3 +20,14 @@ a {
 }
 
 /* spécifiques */
+nav a {
+  color: red;
+}
+
+section article img {
+  margin-top:20px;
+}
+
+footer p {
+  font-size:12px;
+}
